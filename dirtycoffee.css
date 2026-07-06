@@ -1,0 +1,183 @@
+url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Comfortaa:wght@300..700&display=swap');
+
+.dcbg{
+  width: 100%;
+  margin: auto;
+  box-sizing: border-box;
+  position: relative;
+  color: #000;
+  background: linear-gradient(to bottom, #00000000 0%, #131313), url(https://i.pinimg.com/736x/aa/c8/e0/aac8e04c9707d02bcaaf0cd48cd649e3.jpg) 50% 50% / cover;
+  padding: 150px 25px;
+}
+
+.dcbg2{
+  width: 550px;
+  margin: auto;
+  box-sizing: border-box;
+  position: relative;
+  padding: 0px 0px 300px 0px;
+}
+
+.dcboxpic{
+  width: 400px;
+  background:#fff;
+  border-radius: 20px;
+  border: 1px solid #FFF;
+  margin: auto;
+  padding: 5px;
+  box-sizing: border-box;
+  box-shadow: 3px 3px 13px 0px #00000042;
+  position: absolute;
+  left: 0;
+  z-index: 99;
+}
+
+.dciconcolor{
+  display:flex;
+  justify-content: space-between;
+  margin: 0px 10px;
+}
+
+.dciconbxcolor{
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  align-self: center;
+}
+
+.dciconred{
+  width: 13px;
+  aspect-ratio: 1/1;
+  background:#f55e5a;
+  border-radius: 100px;
+}
+
+.dciconyellow{
+  width: 13px;
+  aspect-ratio: 1/1;
+  background:#f3b43a;
+  border-radius: 100px;
+}
+
+.dcicongreen{
+  width: 13px;
+  aspect-ratio: 1/1;
+  background:#23c53e;
+  border-radius: 100px;
+}
+
+.dcname{
+  font-size: 17px;
+  font-weight: 800;
+}
+
+.dcheart{
+  width: 30px;
+  height: 30px;
+  -webkit-mask:url(https://i.ibb.co/Bh4c7tx/heart-fill-svgrepo-com.png) center/cover no-repeat;
+  mask:url(https://i.ibb.co/Bh4c7tx/heart-fill-svgrepo-com.png) center/cover no-repeat;
+}
+
+.dcboxthpic{
+  display: grid;
+  grid-template-columns: 32% 32% 32%;
+  justify-content: space-around;
+  margin: 10px 3px 0px 3px;
+}
+
+.dcdescpic{
+  text-align: center;
+  font-size: 13px;
+  color: #bfbfbf;
+}
+
+.dcpic{
+  aspect-ratio: 1/1;
+  border: 1px solid #ddd;
+}
+
+.dcrightx{
+  position: absolute;
+  right: 0;
+  top:50px;
+  font-size: 33px;
+  color: #ffffff;
+  font-family: Reenie Beanie;
+  rotate: 19deg;
+}
+
+.dcarrow{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  right: 40px;
+  top: 73px;
+  rotate: 5deg;
+  background: #ffffff;
+  -webkit-mask:url(https://i.ibb.co/Xx9Tsd2J/Untitled-design.png) center/cover no-repeat;
+  mask:url(https://i.ibb.co/Xx9Tsd2J/Untitled-design.png) center/cover no-repeat;
+}
+
+.dclefttx{
+  position: absolute;
+  left: 0px;
+  top: 300px;
+  font-size: 33px;
+  color: #ffffff;
+  font-family: Reenie Beanie;
+  rotate: 270deg;
+}
+
+.dcrpbox{
+  width: 470px;
+  background:#fff;
+  border-radius: 20px;
+  border: 1px solid #FFF;
+  margin: auto;
+  padding: 5px;
+  box-sizing: border-box;
+  position: relative;
+  margin: 148px 0 0 auto;
+  right: auto;
+  box-shadow: 3px 3px 13px 0px #00000042;
+}
+
+.dcrpbox2{
+  display:flex;
+  justify-content: space-between;
+  margin: 20px 10px 10px 10px;
+  font-family: Noto Sans Thai;
+}
+
+.dcps{
+  font-size: 14px;
+  font-weight: 800;
+  align-self: center;
+  color: #dbac20;
+}
+
+.dcpspic{
+  width: 25px;
+  height: 11px;
+  background: #dbac20;
+  -webkit-mask:url(https://i.ibb.co/GfYj975W/chevron-left-svgrepo-com.png) center/cover no-repeat;
+  mask:url(https://i.ibb.co/GfYj975W/chevron-left-svgrepo-com.png) center/cover no-repeat;
+  display: inline-block;
+}
+
+.dcpstext{
+  font-size: 14px;
+  font-weight: 800;
+  align-self: center;
+  color: #dbac20;
+}
+
+.dcrptext{
+  box-sizing: border-box;
+  margin: 18px;
+  text-align: justify;
+  font-family: Noto Sans Thai;
+  color: #000;
+  line-height: 1.5;
+  font-size: 16px;
+}
