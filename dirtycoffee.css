@@ -6,7 +6,6 @@
   box-sizing: border-box;
   position: relative;
   color: #000;
-  background: linear-gradient(to bottom, #00000000 0%, #131313), url(https://i.pinimg.com/736x/aa/c8/e0/aac8e04c9707d02bcaaf0cd48cd649e3.jpg) 50% 50% / cover;
   padding: 150px 25px;
 }
 
