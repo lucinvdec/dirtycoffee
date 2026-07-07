@@ -104,6 +104,7 @@
   color: #ffffff;
   font-family: Reenie Beanie;
   rotate: 19deg;
+  pointer-events: none;
 }
 
 .dcarrow{
@@ -126,6 +127,7 @@
   color: #ffffff;
   font-family: Reenie Beanie;
   rotate: 270deg;
+  pointer-events: none;
 }
 
 .dcrpbox{
